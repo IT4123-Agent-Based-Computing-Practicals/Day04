@@ -1,0 +1,2 @@
+API_KEY = "c2811c7af9ed4ff9b20a7a3f672454f0"  # Replace with your API key
+url = f"https://newsapi.org/v2/top-headlines?country=us&apiKey={API_KEY}"
